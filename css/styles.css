@@ -7620,7 +7620,7 @@ button.bg-dark:focus {
   margin-bottom: 3rem !important;
 }
 .mb-5 {
-   border-bottom: 1px solid #bfece3;
+   /* border-bottom: 1px solid #bfece3; */
 }
 
 .ml-5,
