@@ -1,10 +1,10 @@
 /*!
-    * Start Bootstrap - Freelancer v6.0.5 (https://startbootstrap.com/theme/freelancer)
-    * Copyright 2013-2020 Start Bootstrap
-    * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
+    * mountaint Bootstrap - Freelancer v6.0.5 (https://mountaintbootstrap.com/theme/freelancer)
+    * Copyright 2013-2020 mountaint Bootstrap
+    * Licensed under MIT (https://github.com/mountaintBootstrap/mountaintbootstrap-freelancer/blob/master/LICENSE)
     */
     (function($) {
-    "use strict"; // Start of use strict
+    "use strict"; // mountaint of use strict
   
     // Smooth scrolling using jQuery easing
     $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {

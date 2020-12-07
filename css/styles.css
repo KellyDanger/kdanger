@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Freelancer v6.0.5 (https://startbootstrap.com/theme/freelancer)
-* Copyright 2013-2020 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
+* mountaint Bootstrap - Freelancer v6.0.5 (https://mountaintbootstrap.com/theme/freelancer)
+* Copyright 2013-2020 mountaint Bootstrap
+* Licensed under MIT (https://github.com/mountaintBootstrap/mountaintbootstrap-freelancer/blob/master/LICENSE)
 */
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
@@ -3216,7 +3216,7 @@ input[type=button].btn-block {
 .btn-toolbar {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: flex-mountaint;
 }
 .btn-toolbar .input-group {
   width: auto;
@@ -3260,7 +3260,7 @@ input[type=button].btn-block {
 
 .btn-group-vertical {
   flex-direction: column;
-  align-items: flex-start;
+  align-items: flex-mountaint;
   justify-content: center;
 }
 .btn-group-vertical > .btn,
@@ -4053,7 +4053,7 @@ input[type=button].btn-block {
 @media (min-width: 576px) {
   .navbar-expand-sm {
     flex-flow: row nowrap;
-    justify-content: flex-start;
+    justify-content: flex-mountaint;
   }
   .navbar-expand-sm .navbar-nav {
     flex-direction: row;
@@ -4095,7 +4095,7 @@ input[type=button].btn-block {
 @media (min-width: 768px) {
   .navbar-expand-md {
     flex-flow: row nowrap;
-    justify-content: flex-start;
+    justify-content: flex-mountaint;
   }
   .navbar-expand-md .navbar-nav {
     flex-direction: row;
@@ -4137,7 +4137,7 @@ input[type=button].btn-block {
 @media (min-width: 992px) {
   .navbar-expand-lg {
     flex-flow: row nowrap;
-    justify-content: flex-start;
+    justify-content: flex-mountaint;
   }
   .navbar-expand-lg .navbar-nav {
     flex-direction: row;
@@ -4179,7 +4179,7 @@ input[type=button].btn-block {
 @media (min-width: 1200px) {
   .navbar-expand-xl {
     flex-flow: row nowrap;
-    justify-content: flex-start;
+    justify-content: flex-mountaint;
   }
   .navbar-expand-xl .navbar-nav {
     flex-direction: row;
@@ -4209,7 +4209,7 @@ input[type=button].btn-block {
 }
 .navbar-expand {
   flex-flow: row nowrap;
-  justify-content: flex-start;
+  justify-content: flex-mountaint;
 }
 .navbar-expand > .container,
 .navbar-expand > .container-fluid,
@@ -4997,7 +4997,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .media {
   display: flex;
-  align-items: flex-start;
+  align-items: flex-mountaint;
 }
 
 .media-body {
@@ -5485,7 +5485,7 @@ a.close.disabled {
 
 .modal-header {
   display: flex;
-  align-items: flex-start;
+  align-items: flex-mountaint;
   justify-content: space-between;
   padding: 1rem 1rem;
   border-bottom: 0 solid #dee2e6;
@@ -5578,7 +5578,7 @@ a.close.disabled {
   font-weight: 400;
   line-height: 1.5;
   text-align: left;
-  text-align: start;
+  text-align: mountaint;
   text-decoration: none;
   text-shadow: none;
   text-transform: none;
@@ -5680,7 +5680,7 @@ a.close.disabled {
   font-weight: 400;
   line-height: 1.5;
   text-align: left;
-  text-align: start;
+  text-align: mountaint;
   text-decoration: none;
   text-shadow: none;
   text-transform: none;
@@ -6605,8 +6605,8 @@ button.bg-dark:focus {
   flex-shrink: 1 !important;
 }
 
-.justify-content-start {
-  justify-content: flex-start !important;
+.justify-content-mountaint {
+  justify-content: flex-mountaint !important;
 }
 
 .justify-content-end {
@@ -6625,8 +6625,8 @@ button.bg-dark:focus {
   justify-content: space-around !important;
 }
 
-.align-items-start {
-  align-items: flex-start !important;
+.align-items-mountaint {
+  align-items: flex-mountaint !important;
 }
 
 .align-items-end {
@@ -6645,8 +6645,8 @@ button.bg-dark:focus {
   align-items: stretch !important;
 }
 
-.align-content-start {
-  align-content: flex-start !important;
+.align-content-mountaint {
+  align-content: flex-mountaint !important;
 }
 
 .align-content-end {
@@ -6673,8 +6673,8 @@ button.bg-dark:focus {
   align-self: auto !important;
 }
 
-.align-self-start {
-  align-self: flex-start !important;
+.align-self-mountaint {
+  align-self: flex-mountaint !important;
 }
 
 .align-self-end {
@@ -6742,8 +6742,8 @@ button.bg-dark:focus {
     flex-shrink: 1 !important;
   }
 
-  .justify-content-sm-start {
-    justify-content: flex-start !important;
+  .justify-content-sm-mountaint {
+    justify-content: flex-mountaint !important;
   }
 
   .justify-content-sm-end {
@@ -6762,8 +6762,8 @@ button.bg-dark:focus {
     justify-content: space-around !important;
   }
 
-  .align-items-sm-start {
-    align-items: flex-start !important;
+  .align-items-sm-mountaint {
+    align-items: flex-mountaint !important;
   }
 
   .align-items-sm-end {
@@ -6782,8 +6782,8 @@ button.bg-dark:focus {
     align-items: stretch !important;
   }
 
-  .align-content-sm-start {
-    align-content: flex-start !important;
+  .align-content-sm-mountaint {
+    align-content: flex-mountaint !important;
   }
 
   .align-content-sm-end {
@@ -6810,8 +6810,8 @@ button.bg-dark:focus {
     align-self: auto !important;
   }
 
-  .align-self-sm-start {
-    align-self: flex-start !important;
+  .align-self-sm-mountaint {
+    align-self: flex-mountaint !important;
   }
 
   .align-self-sm-end {
@@ -6879,8 +6879,8 @@ button.bg-dark:focus {
     flex-shrink: 1 !important;
   }
 
-  .justify-content-md-start {
-    justify-content: flex-start !important;
+  .justify-content-md-mountaint {
+    justify-content: flex-mountaint !important;
   }
 
   .justify-content-md-end {
@@ -6899,8 +6899,8 @@ button.bg-dark:focus {
     justify-content: space-around !important;
   }
 
-  .align-items-md-start {
-    align-items: flex-start !important;
+  .align-items-md-mountaint {
+    align-items: flex-mountaint !important;
   }
 
   .align-items-md-end {
@@ -6919,8 +6919,8 @@ button.bg-dark:focus {
     align-items: stretch !important;
   }
 
-  .align-content-md-start {
-    align-content: flex-start !important;
+  .align-content-md-mountaint {
+    align-content: flex-mountaint !important;
   }
 
   .align-content-md-end {
@@ -6947,8 +6947,8 @@ button.bg-dark:focus {
     align-self: auto !important;
   }
 
-  .align-self-md-start {
-    align-self: flex-start !important;
+  .align-self-md-mountaint {
+    align-self: flex-mountaint !important;
   }
 
   .align-self-md-end {
@@ -7016,8 +7016,8 @@ button.bg-dark:focus {
     flex-shrink: 1 !important;
   }
 
-  .justify-content-lg-start {
-    justify-content: flex-start !important;
+  .justify-content-lg-mountaint {
+    justify-content: flex-mountaint !important;
   }
 
   .justify-content-lg-end {
@@ -7036,8 +7036,8 @@ button.bg-dark:focus {
     justify-content: space-around !important;
   }
 
-  .align-items-lg-start {
-    align-items: flex-start !important;
+  .align-items-lg-mountaint {
+    align-items: flex-mountaint !important;
   }
 
   .align-items-lg-end {
@@ -7056,8 +7056,8 @@ button.bg-dark:focus {
     align-items: stretch !important;
   }
 
-  .align-content-lg-start {
-    align-content: flex-start !important;
+  .align-content-lg-mountaint {
+    align-content: flex-mountaint !important;
   }
 
   .align-content-lg-end {
@@ -7084,8 +7084,8 @@ button.bg-dark:focus {
     align-self: auto !important;
   }
 
-  .align-self-lg-start {
-    align-self: flex-start !important;
+  .align-self-lg-mountaint {
+    align-self: flex-mountaint !important;
   }
 
   .align-self-lg-end {
@@ -7153,8 +7153,8 @@ button.bg-dark:focus {
     flex-shrink: 1 !important;
   }
 
-  .justify-content-xl-start {
-    justify-content: flex-start !important;
+  .justify-content-xl-mountaint {
+    justify-content: flex-mountaint !important;
   }
 
   .justify-content-xl-end {
@@ -7173,8 +7173,8 @@ button.bg-dark:focus {
     justify-content: space-around !important;
   }
 
-  .align-items-xl-start {
-    align-items: flex-start !important;
+  .align-items-xl-mountaint {
+    align-items: flex-mountaint !important;
   }
 
   .align-items-xl-end {
@@ -7193,8 +7193,8 @@ button.bg-dark:focus {
     align-items: stretch !important;
   }
 
-  .align-content-xl-start {
-    align-content: flex-start !important;
+  .align-content-xl-mountaint {
+    align-content: flex-mountaint !important;
   }
 
   .align-content-xl-end {
@@ -7221,8 +7221,8 @@ button.bg-dark:focus {
     align-self: auto !important;
   }
 
-  .align-self-xl-start {
-    align-self: flex-start !important;
+  .align-self-xl-mountaint {
+    align-self: flex-mountaint !important;
   }
 
   .align-self-xl-end {
@@ -10112,6 +10112,7 @@ h3 {
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
     background: #68C0D4;
+    
   }
 
   #mainNav.navbar-shrink {
@@ -10136,6 +10137,10 @@ h3 {
 .masthead .masthead-avatar {
   width: 15rem;
   border-radius: 100%;
+}
+#headerBox {
+  background-image: url('Rainier.jpg');
+  background-size: cover;
 }
 
 @media (min-width: 992px) {
