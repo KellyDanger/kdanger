@@ -10154,6 +10154,8 @@ h3 {
   }
   .masthead .masthead-subheading {
     font-size: 1.5rem;
+    color: white;
+    background-color: #062c3363;
   }
 }
 .portfolio .portfolio-item {
